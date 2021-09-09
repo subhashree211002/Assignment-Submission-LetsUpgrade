@@ -1,0 +1,5 @@
+1. O(n^2)
+2. O(n)
+3. best complexity - 1, constant
+   worst complexity - O(n)
+   average complexity - n
